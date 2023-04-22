@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chamber-ap/Case-Study/static/css/main.01d1ade1.css",
+    "main.js": "/chamber-ap/Case-Study/static/js/main.657b95da.js",
+    "static/js/787.65e09200.chunk.js": "/chamber-ap/Case-Study/static/js/787.65e09200.chunk.js",
+    "static/media/logo3.jpg": "/chamber-ap/Case-Study/static/media/logo3.1faf74781f23f42c3372.jpg",
+    "static/media/heataspects.jpg": "/chamber-ap/Case-Study/static/media/heataspects.bcf7a20d74019cc9482b.jpg",
+    "static/media/impactspic.jpg": "/chamber-ap/Case-Study/static/media/impactspic.3c173846e57c027dbb7b.jpg",
+    "static/media/aman.jpg": "/chamber-ap/Case-Study/static/media/aman.d8b28d03caadfd385add.jpg",
+    "static/media/ev.jpg": "/chamber-ap/Case-Study/static/media/ev.0eafd4e23229be5a0e47.jpg",
+    "static/media/carbonfoot.jpg": "/chamber-ap/Case-Study/static/media/carbonfoot.a6a16dcee19ee1f0516c.jpg",
+    "static/media/greenpremium.jpg": "/chamber-ap/Case-Study/static/media/greenpremium.336aed1f04b2a2d3fff1.jpg",
+    "static/media/impacts.jpg": "/chamber-ap/Case-Study/static/media/impacts.96f878cdd3589f60d216.jpg",
+    "static/media/initiative.jpg": "/chamber-ap/Case-Study/static/media/initiative.a4d71ee19e3d521b17f0.jpg",
+    "index.html": "/chamber-ap/Case-Study/index.html",
+    "main.01d1ade1.css.map": "/chamber-ap/Case-Study/static/css/main.01d1ade1.css.map",
+    "main.657b95da.js.map": "/chamber-ap/Case-Study/static/js/main.657b95da.js.map",
+    "787.65e09200.chunk.js.map": "/chamber-ap/Case-Study/static/js/787.65e09200.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d1ade1.css",
+    "static/js/main.657b95da.js"
+  ]
+}
