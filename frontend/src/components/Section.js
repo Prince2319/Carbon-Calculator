@@ -13,7 +13,7 @@ function Section() {
             style={{
               paddingBottom: "9px",
 
-              width: "1263px",
+              width: "100vw",
             }}
           >
             <Link className="navbar-brand fs-3" to="/">
@@ -68,11 +68,6 @@ function Section() {
                     <li>
                       <Link className="dropdown-item" to="/vehicle">
                         Vehicle
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="dropdown-item" to="/industrial">
-                        Industrial
                       </Link>
                     </li>
                   </ul>
